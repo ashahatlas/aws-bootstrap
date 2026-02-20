@@ -6,6 +6,7 @@ deployments:
     environments: # select the environments you'd like to use with this feature
     - Development
     - Production
+    - Staging
   services:
     ids:
     - b:YXJpOmNsb3VkOmdyYXBoOjpzZXJ2aWNlLzljZDY5NmMwLThjMDYtNDk2Ni05YTRlLTEzMGZjMWJhN2E1NS83MjlmMjQ5Mi0wZDdkLTExZjEtYjQ1Ni0wYWZmZjI1ZmQ5MzM=
